@@ -1,3 +1,4 @@
+Note: This Repo is a Part of Source Start: Launch contributions made here will not be counted for our main event
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
